@@ -1,1 +1,0 @@
-# maven-selenium-build-docker
